@@ -1,0 +1,25 @@
+{
+  "project_window": {
+    "start": "2019-01-31",
+    "end": "2022-12-31",
+    "months": 48
+  },
+  "factor_tracking": {
+    "fidic_mae": 0.13740272055435995,
+    "dynamic_mae": 0.07054656029521864,
+    "fidic_rmse": 0.1975310361201334,
+    "dynamic_rmse": 0.0886055480095766,
+    "fidic_mape_pct": 20.76428880971347,
+    "dynamic_mape_pct": 11.488030147343753
+  },
+  "certificate_tracking_ugx": {
+    "fidic_mae": 300604.62815850583,
+    "dynamic_mae": 166987.9030498867,
+    "fidic_rmse": 593161.9506509695,
+    "dynamic_rmse": 255314.9958166429
+  },
+  "cumulative_gap_ugx": {
+    "fidic_minus_proxy": -11277016.054818738,
+    "dynamic_minus_proxy": -7594338.730925608
+  }
+}

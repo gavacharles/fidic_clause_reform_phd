@@ -1,0 +1,29 @@
+{
+  "lag_order": {
+    "best_dynamic_mae": 0.06430298864468774,
+    "best_lag_order": 2,
+    "mae_improvement_range": [
+      -0.03638187445680929,
+      0.07309973190967221
+    ]
+  },
+  "coefficient_scale": {
+    "best_dynamic_mae": 0.06430298864468774,
+    "best_coef_scale": 1.0,
+    "mae_improvement_range": [
+      -0.024103893535557586,
+      0.07309973190967221
+    ]
+  },
+  "regime_thresholds": {
+    "best_dynamic_mae": 0.06408145681862353,
+    "best_threshold_pair": [
+      0.5,
+      0.9
+    ],
+    "mae_improvement_range": [
+      0.07181341813135707,
+      0.07332126373573643
+    ]
+  }
+}

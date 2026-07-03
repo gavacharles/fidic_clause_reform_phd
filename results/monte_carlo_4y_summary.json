@@ -1,0 +1,27 @@
+{
+  "n_sims": 5000,
+  "horizon_months": 48,
+  "prob_dynamic_better_mae": 1.0,
+  "prob_dynamic_better_rmse": 1.0,
+  "prob_dynamic_better_cert_rmse": 1.0,
+  "mae_improvement_quantiles": {
+    "p50": 0.0601928122631446,
+    "p80": 0.06478015706935578,
+    "p95": 0.06926087302905028
+  },
+  "rmse_improvement_quantiles": {
+    "p50": 0.10219034157738233,
+    "p80": 0.10739109475574725,
+    "p95": 0.11195473050367175
+  },
+  "fidic_factor_mae_quantiles": {
+    "p50": 0.13747592254050944,
+    "p80": 0.1522528119832439,
+    "p95": 0.16679418644312002
+  },
+  "dynamic_factor_mae_quantiles": {
+    "p50": 0.07718525199102419,
+    "p80": 0.08918372280728408,
+    "p95": 0.1029168367731609
+  }
+}
