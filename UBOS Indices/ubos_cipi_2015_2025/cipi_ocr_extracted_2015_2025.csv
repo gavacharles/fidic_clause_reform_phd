@@ -1,0 +1,71 @@
+date,year,title,file,method,text_len,n_metrics_found,cipi_civil,cipi_residential,cipi_nonresidential
+2017-01-15,2017,CSI – January 2017 Release,CSI.pdf,pypdf,7641,0,,,
+2018-05-18,2018,CSI - March 2018 Release,05_2018_CSI_Press_release_2018_marchfinal2.pdf,pypdf,10181,2,3.9,1.6,
+2018-06-21,2018,CSI April & May 2018,06_2018CSI_Press_release_for_April_and_May_2018_20_06_2018_Final.pdf,pypdf,10446,3,4.3,3.0,1.1
+2018-09-13,2018,CSI Press release for July 2018,09_2018CSI_Press_release_for_July_2018.pdf,pypdf,10622,3,6.2,2.4,2.4
+2018-10-31,2018,CSI Press Release Aug/Sept 2018,10_2018CSI_Press_release_for_August_and_september_26_10_2018_Final2.pdf,pypdf,11385,3,5.7,2.53,2.49
+2018-11-28,2018,Construction Sector Indices October 2018,11_2018CSI_Press_release___October_2018.pdf,pypdf,11094,3,5.3,3.3,3.2
+2019-02-28,2019,Construction Sector Indices - Jan 2019,02_2019CSI_Press_release_for_Nov_Dec_2018_Jan_2019_Final.pdf,pypdf,7489,3,2.8,1.1,2.1
+2019-04-25,2019,Construction Sector Indices March 2019,04_2019CSI_Press_release_for_March_2019.pdf,pypdf,7080,0,,,
+2019-06-20,2019,CSI Press Release April 2019,06_2019CSI-PRESS_RELEASE_APRIL_2019-final1.pdf,pypdf,9864,2,0.7,0.0,
+2019-07-26,2019,CSI Press Release May and June 2019,07_2019CSI_Press_Release_MAY_AND_JUNE_2019-final.pdf,pypdf,11046,3,0.4,0.3,0.6
+2019-09-26,2019,CSI Press Release July and August 2019,09_2019CSI_PRESS_RELEASES_JULY_AND_AUGUST_2019.pdf,pypdf,9929,0,,,
+2019-12-11,2019,CSI Press Release September And October 2019,12_2019CSI-Press-Release-Sept-And-Oct-2019.pdf,pypdf,13802,3,1.5,0.1,0.1
+2020-03-27,2020,CSI Press Release (Jan - Feb) 2020,03_2020CSI_Jan_Feb_2020.pdf,ocr,8631,3,0.8,2.7,2.7
+2020-05-20,2020,CSI Press Release March 2020,07_2020Construction_Sector_Indices_March_2020.pdf,ocr,11862,3,0.17,0.11,0.11
+2020-10-23,2020,CSI June 2020 Press Release,10_2020CSI_June_2020_Press_Release.pdf,ocr,11869,3,0.23,2.78,2.78
+2020-10-23,2020,CSI July & August 2020 Press Release,10_2020CSI_July_&_August_2020_Press_Release.pdf,ocr,12537,3,0.3,3.12,3.12
+2020-11-13,2020,Construction Sector Index Sept 2020,11_2020Construction_Sector_Index_Sept_2020.pdf,ocr,13344,3,0.14,0.1,0.1
+2021-02-03,2021,Construction Sector Index November 2020,02_2021CSI_November_2020_Press_release_November.pdf,pypdf,11625,3,0.85,0.71,0.96
+2021-02-03,2021,Construction Sector Index October 2020,02_2021CSI_October_2020_Press_release.pdf,pypdf,11427,3,0.8,0.69,1.13
+2021-03-08,2021,Construction Sector Index January 2021,03_2021CSI_Press_release_January_2021.pdf,pypdf,7130,3,1.23,1.1,0.65
+2021-03-08,2021,Construction Sector Index December 2020,03_2021CSI_Press_release_December_2020.pdf,pypdf,12147,3,0.56,0.64,0.75
+2021-04-09,2021,Construction Sector Index February 2021,04_2021CSI_PRESS_RELEASE_February_2021.pdf,pypdf,12674,3,1.51,1.41,0.42
+2021-05-14,2021,Construction Sector Indices March 2021,05_2021CSI_Press_Release_March_2021.pdf,ocr,11474,3,1.88,0.23,0.23
+2021-08-06,2021,Construction Sector Index May - June 2021,08_2021Construction_Sector_Index_May_to_June_2021.pdf,ocr,12289,3,3.69,0.02,0.02
+2021-08-06,2021,Construction Sector Index Press release for April 2021,08_2021Construction_Sector_Index_Press_release_for_April_2021.pdf,ocr,11239,3,2.45,1.12,1.12
+2021-09-15,2021,Construction Sector Index Press release for August 2021,09_2021CSI_Press_release.pdf,pypdf,10172,0,,,
+2021-10-19,2021,Construction Sector Index - September 2021,10_2021CSI_Sept_2021.pdf,ocr,12234,0,,,
+2021-12-01,2021,CSI October 2021 Press release,12_2021CSI_October_2021_Press_release.pdf,ocr,12041,0,,,
+2021-12-21,2021,CSI PRESS RELEASE November 2021,12_2021CSI_PRESS_RELEASE_November_2021.pdf,pypdf,12777,0,,,
+2022-01-25,2022,CONSTRUCTION SECTOR INDICES - DECEMBER 2021,01_2022CSI_PRESS_RELEASE_December_2021.pdf,pypdf,13339,0,,,
+2022-03-04,2022,CSI Press Release January 2022,03_2022CSI_Press_Release_January_2022.pdf,ocr,8204,0,,,
+2022-03-21,2022,Construction Sector Index and Inflation Rates - Feb 2022,03_2022CSI-Feb_2022.pdf,ocr,8785,0,,,
+2022-04-22,2022,Construction Sector Indices March 2022,04_2022Construction_Sector_Indices_March_2022.pdf,ocr,8844,0,,,
+2022-08-30,2022,CSI Press Release April 2022,08_2022CSI_Press_Release_April_2022.pdf,ocr,9529,0,,,
+2022-08-30,2022,CSI Press Release May 2022,08_2022CSI_Press_Release_May_2022.pdf,ocr,9494,0,,,
+2022-08-30,2022,CSI Press Release June 2022,08_2022CSI_Press_Release_June_2022.pdf,ocr,9699,0,,,
+2022-10-13,2022,Construction Sector Index Rebased - August 2022,10_2022Construction_Sector_Index_Rebased_-_August_2022.pdf,pypdf,6655,0,,,
+2022-11-18,2022,Construction Input Price Index (CIPI) for September 2022,11_2022CIPI_for_September_2022.pdf,ocr,8303,1,1.0,,
+2023-01-06,2023,CIPI November 2022 Press Release,01_2023CIPI_NOVEMBER_2022_PRESS_RELEASE.pdf,pypdf,12943,1,-22.0,,
+2023-01-06,2023,CIPI October 2022 Press Release,01_2023CIPI_OCTOBER_2022_PRESS_RELEASE.pdf,pypdf,10146,1,-22.0,,
+2023-02-06,2023,CIPI December 2022 Press Release,02_2023CIPI_December_2022_Press_Release.pdf,ocr,11651,1,2.0,,
+2023-03-29,2023,Construction Input Price Index For February 2023,03_2023CIPI_February_2023_Press_Release.pdf,ocr,11258,1,0.5,,
+2023-04-28,2023,Construction Input Price Index For March 2023,05_2023CIPI_MARCH_2023_PRESS_RELEASE.pdf,ocr,9117,1,23.0,,
+2023-06-12,2023,"CIPI April , 2023 Press Release",06_2023APRIL_CIPI_PRESS_RELEASE.pdf,ocr,8468,1,23.0,,
+2023-07-17,2023,"CIPI May, 2023 Press Release",07_2023CIPI_MAY_2023_PRESS_RELEASE.pdf,ocr,8195,1,0.5,,
+2023-08-31,2023,CIPI AUGUST 2023 PRESS RELEASE,12_2023CIPI_AUGUST_2023_PRESS_RELEASE.pdf,ocr,8810,0,,,
+2023-10-02,2023,CIPI SEPTEMBER 2023 PRESS RELEASE,12_2023CIPI_SEPTEMBER_2023_PRESS_RELEASE.pdf,ocr,8358,1,0.5,,
+2023-12-01,2023,CIPI OCTOBER 2023 PRESS RELEASE,12_2023CIPI_OCTOBER_2023_PRESS_RELEASE.pdf,pypdf,0,0,,,
+2024-02-22,2024,Construction Input Price Index Press Release - December 2023,CIPI-PRESS-RELEASE-DECEMBER-2023.pdf,ocr,9067,1,0.0,,
+2024-03-06,2024,Construction Input Price Index Press Release - January 2024 PRESS RELEASE,CIPI-PRESS-RELEASE-JANUARY-2024.pdf,ocr,9236,0,,,
+2024-03-28,2024,CIPI February 2024 Press Release,CIPI-FEBRUARY-2024-PRESS-RELEASE.pdf,ocr,9261,1,0.2,,
+2024-04-30,2024,CIPI March 2024 Press Release,CIPI-March-2024.pdf,ocr,9222,0,,,
+2024-06-28,2024,CIPI May 2024 Press Release,CIPI-MAY-2024-PRESS-RELEASE.pdf,ocr,9066,1,0.2,,
+2024-07-31,2024,CIPI June 2024 Press Release,JUNE-2024-CIPI-PRESS-RELEASE.pdf,ocr,8531,0,,,
+2024-08-30,2024,CIPI July 2024 Press Release,CIPI-JULY-2024.pdf,ocr,8734,1,0.2,,
+2024-09-30,2024,CIPI August 2024 Press Release,CIPI-AUGUST-2024.pdf,ocr,8715,1,0.2,,
+2024-10-31,2024,CIPI September 2024 Press Release,CIPI-SEPTEMBER-2024-PRESS-RELEASE.pdf,ocr,8714,1,0.2,,
+2024-11-29,2024,CIPI October 2024 Press Release,CIPI-October-2024-Press-Release.pdf,ocr,8861,1,0.0,,
+2024-12-31,2024,CIPI November 2024 Press Release,CIPI-NOVEMBER-2024-PRESS-RELEASE.pdf,ocr,9072,1,0.0,,
+2025-02-05,2025,CIPI December 2024 Press Release,CIPI-December-2024-Press-Release.pdf,ocr,8814,1,0.0,,
+2025-03-31,2025,CIPI February 2025 Press Release,CIPI-February-2025-Press-Release.pdf,ocr,9453,1,0.0,,
+2025-04-30,2025,CIPI March 2025 Press Release,CIPI-MARCH-2025-PRESS-RELEASE.pdf,ocr,8646,1,0.0,,
+2025-05-30,2025,CIPI April 2025 Press Release,CIPI-APRIL-2025-PRESS-RELEASE.pdf,ocr,9165,1,-25.0,,
+2025-06-30,2025,CIPI May 2025 Press Release,CIPI-MAY-2025-PRESS-RELEASE.pdf,ocr,8640,1,-25.0,,
+2025-08-01,2025,CIPI June 2025 Press Release,CIPI-JUNE-2025-PRESS-RELEASE.pdf,ocr,8531,1,-24.0,,
+2025-09-03,2025,CIPI JULY 2025 Press Release,CIPI-JULY-2025-Press-Release.pdf,ocr,8725,1,-25.0,,
+2025-09-30,2025,CIPI August 2025 Press Release,CIPI-AUGUST-2025-PRESS-RELEASE.pdf,ocr,8505,1,0.2,,
+2025-10-31,2025,CIPI September 2025 Press Release,CIPI-September-2025-Press-Release.pdf,ocr,8281,1,0.0,,
+2025-11-28,2025,CIPI October 2025 Press Release,CIPI-OCTOBER-2025-PRESS-RELEASE.pdf,ocr,9191,1,-25.0,,
+2025-12-31,2025,CIPI November 2025 Press Release,CIPI-NOVEMBER-2025-PRESS-RELEASE.pdf,ocr,8987,1,0.0,,
