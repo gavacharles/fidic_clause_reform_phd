@@ -11,7 +11,6 @@ Python simulations, source data, results and an article draft comparing FIDIC's 
 | `run_sensitivity_4y.py` | Sensitivity to coefficient scale, lag order and regime thresholds |
 | `results/` | Simulation outputs (CSV, JSON), run reports (Markdown) and `figures/` |
 | `UBOS Indices/ubos_cipi_2015_2025/` | Source material: UBOS CIPI press releases (PDF), extracted index tables, Bank of Uganda exchange-rate, interest-rate and monetary-policy files, and a manifest |
-| `journal_article_fidic_clause_reform.md` | Article draft |
 
 ## Running
 
